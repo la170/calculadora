@@ -1,0 +1,21 @@
+#display{
+    background-color: rgb(212, 212, 212);
+    height: 2rem;
+    width: 17rem;
+    border: 1px solid;
+}
+.borde{
+    width: 20px;
+    border: 3px solid ;
+    display: flex;
+    flex-direction: column;
+
+}
+.num1{
+    width: 6rem;
+}
+.boton{
+    background-color: rgb(234, 203, 255);
+    height: 4rem;
+    width: 4rem;
+}
