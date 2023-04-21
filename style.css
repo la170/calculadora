@@ -11,7 +11,12 @@
     flex-direction: column;
 
 }
+#operando{
+    width: 6rem;
+    border: 1px solid ;
+}
 .num1{
+
     width: 6rem;
 }
 .boton{
